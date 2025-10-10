@@ -1,0 +1,10 @@
+{
+    "polymod": {
+        "name": "Speed Checker",
+        "id": "speedchecker",
+        "author": "Byzonyx",
+        "targets": ["0.5.1"],
+        "main": "main.mod.js"
+    },
+    "dependencies": []
+}
